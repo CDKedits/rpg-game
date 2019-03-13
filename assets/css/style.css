@@ -1,0 +1,120 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#title {
+  background: white;
+  width: 200px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 3px solid black;
+  padding: 5px;
+}
+#title2 {
+  background: white;
+  width: 350px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+body {
+  background-image: url(../images/background.jpg);
+  background-size: auto;
+}
+
+.character-boxes {
+  margin-left: 290px;
+}
+
+.container {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.character-stats {
+  display: inline-block;
+  width: 220px;
+  height: 225px;
+  text-align: center;
+  border: 3px solid black;
+  padding: 20px;
+  /* margin-bottom: 10px; */
+  background: white
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+.user-char {
+  width: 200px;
+  height: 30px;
+  background: white;
+  border: 3px solid black;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.active {
+  margin-top: 100px;
+}
+
+.enemies {
+  width: 200px;
+  height: 50px;
+  background: white;
+  border: 3px solid black;
+  padding: 7px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fight {
+  width: 200px;
+  height: 30px;
+  background: white;
+  border: 3px solid black;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.defender {
+  width: 200px;
+  height: 30px;
+  background: white;
+  border: 3px solid black;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.attack {
+  margin-left: 935px; 
+  margin-top: 20px;
+  border: 1px solid black;
+}
+
+#user-choice {
+  margin-top: 10px;
+  margin-left: 851px;
+}
